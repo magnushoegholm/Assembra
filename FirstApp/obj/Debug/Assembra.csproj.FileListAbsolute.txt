@@ -1,0 +1,10 @@
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\bin\Debug\Assembra Design Tool.exe.config
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\bin\Debug\Assembra Design Tool.exe
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\bin\Debug\Assembra Design Tool.pdb
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\obj\Debug\Assembra.csproj.AssemblyReference.cache
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\obj\Debug\Assembra.Properties.Resources.resources
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\obj\Debug\Assembra.csproj.GenerateResource.cache
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\obj\Debug\Assembra.csproj.CoreCompileInputs.cache
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\obj\Debug\Assembra Design Tool.exe
+C:\Users\magnu\OneDrive\DTU\Special course\C sharp learning\FirstApp\FirstApp\obj\Debug\Assembra Design Tool.pdb
